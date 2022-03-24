@@ -3,6 +3,7 @@ version: '3'
 services:
   Task2:
     image: php:8.0-apache
+    command : httpd
     ports:
       - 8080:80
     volumes:
