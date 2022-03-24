@@ -4,7 +4,7 @@ services:
   Task2:
     image: php:8.0-apache
     ports:
-      - 8000:8000
+      - 8080:80
     volumes:
       - ./task2:/var/www/html
     
