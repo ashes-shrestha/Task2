@@ -7,4 +7,4 @@ Instructions:
 1. Clone/Download the repository into your local machine
 2. In terminal, goto the repository directory/folder
 3. Run command: docker-compose up
-4. On browser, goto http://localhost:80/task2
+4. On browser, goto http://localhost:80
